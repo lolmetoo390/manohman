@@ -1,0 +1,2 @@
+# manohman
+theory of observation
